@@ -38,7 +38,7 @@
 SPHINXOPTS    =
 SPHINXBUILD   = sphinx-build
 SPHINXPROJ    = minifabricdocs
-SOURCEDIR     = source
+SOURCEDIR     = .
 BUILDDIR      = build
 
 # Put help target first so it's the default.
